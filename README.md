@@ -51,7 +51,7 @@ mv snapshot.pt dmcontrol-generalization-benchmark/logs/cartpole_swingup/muha/1
 ### Evaluation
 
 ```
-cd ~/PIEG/dmcontrol-generalization-benchmark/
+cd dmcontrol-generalization-benchmark/
 conda activate dmcgb
 bash script/eval/muha.sh
 ```
